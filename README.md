@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fabien
-- 👀 I’m interested in autoamtion and raspberry pi
+- 👀 I’m interested in automation and raspberry pi
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on these two topics
 - 📫 How to reach me at fabienburguera@gmail.com
